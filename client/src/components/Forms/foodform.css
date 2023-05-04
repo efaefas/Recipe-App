@@ -1,0 +1,27 @@
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+select,
+input[type='number'] {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.25rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ddd;
+}

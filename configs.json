@@ -1,0 +1,6 @@
+{
+    "database": {
+        "uri": "mongodb+srv://fars_user:1chQSlWjjCLMHgOc@cluster0.skrc6yu.mongodb.net/",
+        "dbName": "fars"
+    }
+}
